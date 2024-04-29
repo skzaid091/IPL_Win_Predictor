@@ -30,7 +30,7 @@ cities = ['Hyderabad', 'Delhi', 'Sharjah', 'Kolkata', 'Durban', 'Mumbai',
        'Indore', 'Kimberley', 'Visakhapatnam']
 
 
-pipe = pickle.load(open('pipe.pkl', 'rb'))
+pipe = pd.read_pickle('pipe.pkl')
 
 col1, col2 = st.columns(2)
 
