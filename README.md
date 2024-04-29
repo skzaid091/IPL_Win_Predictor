@@ -2,6 +2,8 @@
 
 Welcome to the IPL Win Predictor! This application predicts the winning probabilities for IPL matches based on various parameters such as teams, city, target score, current score, overs completed, and wickets fallen.
 
+## Live DEMO : https://ipl-win-predictioner.streamlit.app/
+
 ## How it Works
 
 The IPL Win Predictor utilizes a machine learning model trained on historical IPL match data to predict the winning probabilities for the batting and bowling teams. The model takes into account factors like target score, remaining runs needed, overs remaining, and wickets fallen to provide accurate predictions.
