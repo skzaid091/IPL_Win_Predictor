@@ -1,6 +1,6 @@
 # IPL Win Predictor
 
-![IPL Logo](IPLL.png)
+![IPL Logo](IPLL.jpeg)
 
 Welcome to the IPL Win Predictor! This application predicts the winning probabilities for IPL matches based on various parameters such as teams, city, target score, current score, overs completed, and wickets fallen.
 
