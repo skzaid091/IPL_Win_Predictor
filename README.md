@@ -53,8 +53,4 @@ If you'd like to contribute to the IPL Win Predictor, please follow these guidel
 
 ## Credits
 
-- [Your Name or Organization](link-to-your-website-or-profile) - Creator of IPL Win Predictor
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Zaid Shaikh](https://github.com/skzaid091) - Creator of IPL Win Predictor
