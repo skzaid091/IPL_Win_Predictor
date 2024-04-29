@@ -2,7 +2,9 @@
 
 Welcome to the IPL Win Predictor! This application predicts the winning probabilities for IPL matches based on various parameters such as teams, city, target score, current score, overs completed, and wickets fallen.
 
-## Live DEMO : https://ipl-win-predictioner.streamlit.app/
+
+### Live DEMO : https://ipl-win-predictioner.streamlit.app/
+
 
 ## How it Works
 
